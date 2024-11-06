@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
-* Студент: [Юлия Щелочкова](https://up.htmlacademy.ru/adaptive-individual/1/user/1845055).
-* Наставник: `Неизвестно`.
+- Студент: [Юлия Щелочкова](https://up.htmlacademy.ru/adaptive-individual/1/user/1845055).
+- Наставник: `Андрей Грачев`.
 
 ---
 
